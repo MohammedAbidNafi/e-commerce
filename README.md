@@ -1,3 +1,2 @@
-# E-commerce-syedcart
+# E-commerce
 
-link of the site -> https://syedcart-2fd1d.web.app/
