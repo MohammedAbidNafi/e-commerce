@@ -1,0 +1,26 @@
+@media screen and (max-width:980px){
+    body{
+        background-color: rgb(235, 0, 0);
+    }
+    nav{
+        flex-direction: column;
+    }
+    .logo{
+        justify-content: center;
+
+    }
+    nav ul{
+        justify-content: center;
+    }
+    .cart{
+        flex-direction: column;
+    }
+    .searchbar{
+        justify-content: center;
+    }
+    .searchbar input{
+        width: 66vh;
+        height: 2.5vh;
+        overflow: hidden;
+    }
+}

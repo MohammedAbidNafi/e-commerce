@@ -1,0 +1,20 @@
+.Copyrigth{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+.btn{
+    padding: 1px 1px;
+    cursor: pointer;
+   
+}
+
+.margin1{
+ margin: 26px 0;
+}
+.centretext{
+    text-align: center;
+}
+.redltext{
+    color: red;
+}
